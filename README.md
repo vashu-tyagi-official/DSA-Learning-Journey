@@ -114,18 +114,11 @@ To set up this project locally and run the Python examples:
     ```bash
     cd Python-Data-Structures
     ```
-3.  **(Recommended) Create a virtual environment:**
-    ```bash
-    python -m venv venv
-    ```
-4.  **Activate the virtual environment:**
-    - **Windows:** `.\venv\Scripts\activate`
-    - **macOS/Linux:** `source venv/bin/activate`
-5.  **Install dependencies (if any, specified in `requirements.txt`):**
+3.  **Install dependencies (if any, specified in `requirements.txt`):**
     ```bash
     pip install -r requirements.txt
     ```
-6.  **Run any Python script (e.g., a basic list example):**
+4.  **Run any Python script (e.g., a basic list example):**
     ```bash
     python 01-Arrays_and_Lists/list_operations.py
     ```
