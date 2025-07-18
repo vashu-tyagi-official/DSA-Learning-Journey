@@ -1,0 +1,9 @@
+# Interactive Computing and Development Tools
+jupyter             # Essential for interactive notebooks, perfect for experimenting with data structure implementations and visualizing their behavior.
+ipython             # An enhanced interactive Python shell, useful for quick tests and explorations.
+
+# Testing Framework
+pytest              # A powerful and easy-to-use testing framework for Python. Crucial for verifying the correctness of your data structure implementations.
+
+# Utility for progress visualization (optional but helpful)
+tqdm                # A fast, extensible progress bar for loops. Can be useful when processing large datasets with your custom data structures.
