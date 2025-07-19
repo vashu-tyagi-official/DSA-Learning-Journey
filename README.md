@@ -1,4 +1,4 @@
-# Data Structures & Algorithm 
+# Data Structures & Algorithm
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -43,48 +43,57 @@ DSA-Learning-Journey/
 ├── 01-Arrays_and_Lists/
 │   ├── static_array.py
 │   ├── dynamic_array.py
-│   ├── list_operations.py
-│   └── problems/
-│       └── ...
+│   └── list_operations.py
 │
 ├── 02-Linked_Lists/
 │   ├── singly_linked_list.py
 │   ├── doubly_linked_list.py
-│   ├── circular_linked_list.py
-│   └── problems/
-│       └── ...
+│   └── circular_linked_list.py
 │
 ├── 03-Stacks_and_Queues/
 │   ├── stack_array.py
 │   ├── stack_linked_list.py
 │   ├── queue_array.py
-│   ├── queue_linked_list.py
-│   └── problems/
-│       └── ...
+│   └── queue_linked_list.py
 │
 ├── 04-Trees/
-│   ├── binary_tree.py
+│   ├── binary_tree_traversals.py
 │   ├── binary_search_tree.py
-│   ├── avl_tree.py
-│   ├── heap.py
-│   └── traversals/
-│       └── ...
+│   └── avl_tree.py
 │
 ├── 05-Graphs/
-│   ├── graph_adjacency_list.py
-│   ├── graph_adjacency_matrix.py
-│   ├── traversals/
-│   │   └── ...
-│   └── algorithms/
-│       └── ...
+│   ├── graph_representation.py
+│   ├── bfs_dfs.py
+│   └── dijkstra_algorithm.py
 │
-├── 06-Hash_Tables/
-│   ├── hash_table_chained.py
-│   ├── hash_table_linear_probing.py
-│   └── problems/
-│       └── ...
+├── 06-Hashing/
+│   ├── hash_table_basics.py
+│   └── hash_set_basics.py
 │
-├── 07-Practice Questions/
+├── 07-Sorting_Algorithms/
+│   ├── bubble_sort.py
+│   ├── merge_sort.py
+│   └── quick_sort.py
+│
+├── 08-Searching_Algorithms/
+│   ├── linear_search.py
+│   └── binary_search.py
+│
+├── 09-Recursion_and_Backtracking/
+│   ├── factorial_fibonacci.py
+│   └── permutations_combinations.py
+│
+├── 10-Dynamic_Programming/
+│   ├── fibonacci_dp.py
+│   └── knapsack_problem.py
+│
+├── 11-Greedy_Algorithms/
+│   └── activity_selection.py
+│
+├── 12-Bit_Manipulation/
+│   └── bitwise_operators.py
+│
+├── 13-Practice Questions/
 └── ...
 ```
 
