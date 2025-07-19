@@ -34,12 +34,12 @@ This repository is organized into distinct modules, covering the most common and
 The project is logically organized to facilitate a progressive learning experience:
 
 ```
-Python-Data-Structures/
+DSA-Learning-Journey/
 ├── .gitignore
 ├── LICENSE
 ├── README.md
-├── requirements.txt         # Main file for all project dependencies
-
+├── requirements.txt
+│
 ├── 01-Arrays_and_Lists/
 │   ├── static_array.py
 │   ├── dynamic_array.py
