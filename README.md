@@ -1,8 +1,8 @@
-# Python Data Structures
+# Data Structures & Algorithm 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Welcome to this comprehensive and open-source repository dedicated to exploring and implementing fundamental **Data Structures in Python**!
+Welcome to this comprehensive and open-source repository dedicated to exploring and implementing fundamental **Data Structures Journey in Python**!
 
 ---
 
