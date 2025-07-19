@@ -108,11 +108,11 @@ To set up this project locally and run the Python examples:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/vashu-tyagi-official/Python-Data-Structures.git](https://github.com/vashu-tyagi-official/Python-Data-Structures.git)
+    git clone [https://github.com/vashu-tyagi-official/DSA-Learning-Journey.git](https://github.com/vashu-tyagi-official/DSA-Learning-Journey.git)
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd Python-Data-Structures
+    cd DSA-Learning-Journey
     ```
 3.  **Install dependencies (if any, specified in `requirements.txt`):**
     ```bash
